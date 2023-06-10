@@ -9,9 +9,9 @@ const MealsSummary = () => {
         o masă delicioasă la prânz sau cină, în confortul propriului cămin.
       </p>
       <p>
-        Toate legumele noastre sunt cultivate cu ingrediente de înaltă calitate,
-        proaspete și sunt gătite de către bucătari experimentați, exact în
-        momentul comenzii tale!
+        Te rugăm să reții că livrările se fac exclusiv în zona Oradea, cu un
+        timp de așteptare estimat între 1 și 2 ore. Prețul poate varia ușor în
+        funcție de cantitate, cu o deviație de aproximativ 10%.
       </p>
     </section>
   );
