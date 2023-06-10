@@ -1,1 +1,2 @@
 # piataverde
+Local Menu is a small yet useful web application designed for local producers. It enables local producers to showcase their fresh and delicious products through an interactive menu. With Local Menu, producers can easily add and update product listings, descriptions, prices, and images, providing customers with a convenient way to explore and order directly from the producers. With a user-friendly interface and appealing design, Local Menu is the perfect solution for local producers looking to expand and strengthen their online presence.
